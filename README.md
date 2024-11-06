@@ -14,3 +14,5 @@ https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transfor
 https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
 
 https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/notebook(this is almost went through)
+
+https://www.nltk.org/book/
